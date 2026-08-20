@@ -1,0 +1,5 @@
+interface:
+  display_name: "CMS Debate Kit"
+  short_description: "발췌문 기반 토론 자료와 인용 검증 리포트 생성"
+  default_prompt: "Use $cms-debate-kit to turn this book excerpt into a verified debate activity kit."
+
